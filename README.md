@@ -8,7 +8,7 @@ Trang web tĩnh cho GitHub Pages. Ngân hàng câu hỏi, đáp án, giải thí
 2. Chọn **Add file → Upload files** và tải **`index.html`** lên thư mục gốc của repo (thay file cũ nếu có).
 3. **Commit changes**.
 4. Vào **Settings → Pages → Build and deployment**: Source = **Deploy from a branch**, Branch = **main**, Folder = **/(root)**, rồi Save.
-5. Mở `https://TEN-TAI-KHOAN.github.io/on-tap-kinh-te-vi-mo/`.
+5. Mở `https://Aldennguyen193.github.io/on-tap-kinh-te-vi-mo/`.
 
 ## Trên điện thoại
 
